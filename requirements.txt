@@ -1,0 +1,7 @@
+httpx
+playwright
+python-whois
+tenacity
+rich
+beautifulsoup4
+lxml

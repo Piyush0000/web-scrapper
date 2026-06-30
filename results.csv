@@ -1,0 +1,2 @@
+url,platform,status,product_name,price,merchant_name,merchant_address,merchant_rating,merchant_location,email,phone,error,elapsed_seconds
+https://moonstruck.co.in/,shopify,Not a product URL,,,,,,,support@moonstruck.co.in,+91) 84486 09059,URL did not match /products/<handle>,0.7

@@ -1,0 +1,2 @@
+url,platform,status,product_name,price,merchant_name,merchant_address,merchant_rating,merchant_location,email,phone,error,elapsed_seconds
+https://www.amazon.in/dp/B07X6JK1WL,amazon,Blocked,,,,,,,,,No product fields extracted (page likely blocked),26.12

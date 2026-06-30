@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://moonstruck.co.in/",
+    "platform": "shopify",
+    "status": "Not a product URL",
+    "product_name": null,
+    "price": null,
+    "merchant_name": null,
+    "merchant_address": null,
+    "merchant_rating": null,
+    "merchant_location": null,
+    "contact_info": {
+      "email": "support@moonstruck.co.in",
+      "phone": "+91) 84486 09059"
+    },
+    "error": "URL did not match /products/<handle>",
+    "elapsed_seconds": 0.7
+  }
+]
